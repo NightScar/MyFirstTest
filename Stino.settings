@@ -1,0 +1,16 @@
+{
+    "arduino_root": "E:\\Program Files\\arduino-1.0.5", 
+    "baudrate": "9600", 
+    "board": "Arduino Mega 2560 or Mega ADK", 
+    "full_compilation": false, 
+    "global_setting": false, 
+    "language": "Chinese Simplified", 
+    "platform": "Arduino AVR Boards", 
+    "pre_setting_folder_path": "E:\\Code\\GitHub\\MyFirstTest", 
+    "programmer": "AVR ISP", 
+    "serial_port": "COM1", 
+    "show_arduino_menu": false, 
+    "show_serial_monitor_menu": "", 
+    "sketchbook_root": "C:\\Users\\Administrator\\Documents\\Arduino", 
+    "verbose_compilation": false
+}
